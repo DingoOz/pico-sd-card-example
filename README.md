@@ -8,6 +8,13 @@ Earle F. Philhower, III https://github.com/earlephilhower/arduino-pico
 
 The data connections are:
 MISO      - GPIO 12
+
 CS        - GPIO 13
+
 SCK/CLK   - GPIO 14
+
 MOSI      - GPIO 15
+
+
+Hardware tested with:
+Pico W and https://core-electronics.com.au/micro-sd-card-module-3-3-and-5v-compatible.html
